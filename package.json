@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express-https",
+  "version": "1.0.0",
+  "description": "sample app using https",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgpadua/nodejs-express-https.git"
+  },
+  "author": "tgpadua",
+  "license": "MIT-0",
+  "bugs": {
+    "url": "https://github.com/tgpadua/nodejs-express-https/issues"
+  },
+  "homepage": "https://github.com/tgpadua/nodejs-express-https#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
